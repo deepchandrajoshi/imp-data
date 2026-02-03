@@ -1,6 +1,11 @@
+
 body{
   background-color: #013066;
+  font-family: 'Playwrite NZ Basic', sans-serif;
+  weight: 400;
+  color: #f0f0f0;
 }
 a{
   text-decoration: none;
 }
+
